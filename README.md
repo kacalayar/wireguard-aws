@@ -1,6 +1,9 @@
 # Install and use AWS-based Wireguard
 Scripts automate the installation and use of Wireguard on AWS with Ubuntu Server 18.04
 
+# Added Pi-Hole as DNS Server
+https://docs.pi-hole.net/main/basic-install/
+
 ## How use
 
 ### Installation
