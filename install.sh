@@ -71,3 +71,5 @@ done
 cp -f ./wg0.conf.def ./wg0.conf
 
 systemctl enable wg-quick@wg0
+
+curl -sSL https://install.pi-hole.net | bash
