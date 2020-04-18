@@ -8,7 +8,7 @@ https://docs.pi-hole.net/main/basic-install/
 
 ### Installation
 ```
-git clone https://github.com/pprometey/wireguard_aws.git wireguard_aws
+git clone https://github.com/kacalayar/wireguard-aws.git wireguard_aws
 cd wireguard_aws
 sudo ./initial.sh
 ```
